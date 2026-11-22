@@ -1,0 +1,9 @@
+.DS_Store
+.env
+.env.*
+*.p12
+*.mobileprovision
+xcuserdata/
+*.xcuserstate
+DerivedData/
+Roamfolio-trip.json

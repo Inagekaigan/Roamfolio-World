@@ -1,0 +1,11 @@
+{
+  "appId": "app.roamfolio.mobile",
+  "appName": "Roamfolio",
+  "webDir": "public",
+  "backgroundColor": "#f7f6ee",
+  "ios": {
+    "contentInset": "never",
+    "preferredContentMode": "mobile"
+  },
+  "packageClassList": []
+}
